@@ -1,0 +1,1 @@
+# mass-qr-code-generator
